@@ -1,0 +1,577 @@
+#page{
+
+    text-align: center;
+    font-weight: bold;
+}
+.content{
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 20% 10%; 
+    padding-right: 20px;
+    margin-left: -2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+  nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+    justify-content: space-between;
+    
+  }
+  nav ul li a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: large;
+}
+#lag{
+    height: 40px;
+    border-radius: 10px;
+    margin-bottom: -2%;
+    
+}
+.eddy{
+  justify-content: space-between;
+  padding: 20px;
+  margin-top: -10%;
+  background-color: orange;
+}
+#logo{
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+
+}
+#cat{
+  padding: 10px 80px;
+  border-radius: 5px;
+  margin-left: 5%;
+  padding-left: 10px;
+  font-size: 20px;
+}
+#search{
+  margin-left: 8%;
+  border: solid;
+  padding: 10px 280px;
+  border-radius: 10px;
+  padding-left:15px;
+  background-color: white;
+}
+#heart{
+  margin-left: 24%;
+  font-size: 40px;
+}
+#cart{
+  margin-left: 1% ;
+  font-size: 40px;
+}
+#user{
+  margin-left: 1%;
+  font-size: 40px;
+}
+
+.an{
+  background-color:  black;
+  padding: 10px;
+  color: white;
+  
+}
+#ego{
+  margin-left: 2%;
+  margin-top: 1%;
+}
+#right{
+  margin-top: -18%;
+}
+#mar{
+  text-align: center;
+  margin-top: -3%;
+}
+.boxti{
+  margin-left: 2%;
+  border: solid;
+  width: 10%;
+  padding: 1px 20px;
+  margin-top: 1%;
+  border-radius: 10px;
+  margin-top: -1580px;
+}
+.cityni{
+  margin-left: 2%;
+  
+}
+.price{
+  margin-left: 2%;
+  
+}
+.sexpp{
+  margin-left: 2%;
+}
+.ageing{
+  margin-left: 2%;
+
+}
+.uleeh{
+  list-style-type: none;
+}
+#sa1{
+  margin-left: 20%;
+  
+}
+#sa2{
+ margin-left: 10%; 
+}
+#sa3{
+margin-left: 10%;
+}
+.all{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ag{
+  margin-left: 22%;
+  margin-top: -2.6%;
+  font-weight: bold;
+}
+#et{
+  margin-left: 50%;
+  margin-top: -1.8%;
+  font-weight: bold;
+}
+#ata{
+  margin-left: 80%;
+  margin-top: -1.8%;
+  font-weight: bold;
+}
+#noa{
+  margin-left: 18%;
+  margin-top: -2%;
+}
+#nni{
+  margin-left: 30%;
+  margin-top: -2%;
+}
+#n11{
+  margin-left: 48%;
+  margin-top: -2%;
+}
+#clia{
+  margin-left: 60%;
+  margin-top: -2.3%;
+}
+#n22{
+  margin-left: 79%;
+  margin-top: -2.3%;
+}
+#fara{
+  margin-left: 89%;
+  margin-top: -2.5%;
+}
+#am{
+  color: yellow;
+}
+#n33{
+  margin-left: 21%;
+  margin-top: -1%;
+  color: red;
+}
+#sss{
+  margin-left: 35%;
+  margin-top: -5%;
+  color: yellow;
+  
+}
+#n44{
+  margin-left: 52%;
+  margin-top: -4%;
+  color: red;
+}
+#aaa{
+  margin-left: 60%;
+  color: yellow;
+}
+#n55{
+  margin-left: 83%;
+  margin-top: -3%;
+  color: red;
+}
+#ccc{
+  margin-left: 95%;
+  margin-top: -5%;
+  color: yellow;
+}
+.jaya{
+  font-weight: bold;
+}
+#z43{
+  margin-left: 20%;
+}
+#zz35{
+  margin-left: 10%;
+}
+#z66{
+  margin-left: 10%;
+}
+.cipiy{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#licm{
+  margin-left: 24%;
+  margin-top: -0.2%;
+  font-weight: bold;
+}
+#n11{
+  margin-left: 28%;
+  margin-top: -0.8%;
+  font-weight: bold;
+}
+#TAaa{
+  margin-left: 58%;
+  margin-top: -5%;
+  font-weight: bold;
+}
+#esse{
+  margin-left: 85%;
+  margin-top: -3%;
+  font-weight: bold;
+}
+#on{
+  margin-left: 88%;
+  margin-top: -1%;
+  font-weight: bold;
+}
+#emmyy{
+  margin-left: 33%;
+  margin-top: -0.8%;
+}
+#mmmm{
+  margin-left: 58%;
+  margin-top: -3%;
+}
+#giddyyy{
+  margin-left: 73%;
+margin-top: -3%;
+}
+#emmu{
+  margin-left: 90%;
+  margin-top: -2%; 
+}
+.m999{
+  margin-left: 24%;
+}
+#rtaa{
+
+  margin-left: 46%;
+  margin-top: -4%;
+}
+#faiko{
+  margin-left: 60%;
+  margin-top: -4%;
+  font-weight: bold;
+  color: red;
+}
+#mokooo{
+  margin-left: 70%;
+}
+#piah{
+  margin-left: 80%;
+  margin-top: -4%;
+}
+#ppbi{
+  margin-left: 95%;
+}
+#z77{
+  margin-left: 21%;
+}
+#z88{
+  margin-left: 11%;
+}
+#z99{
+  margin-left: 5.1%;
+}
+#j11{
+  margin-left: 25%;
+  margin-top: -0.5%;
+}
+#j44{
+  margin-left: 28%;
+  margin-top: -1%;
+}
+#j22{
+  margin-left: 56%;
+  margin-top: -4%;
+}
+#j55{
+  margin-left: 59%;
+  margin-top: -1%;
+}
+#j33{
+  margin-left: 84%;
+  margin-top: -5%;
+}
+#j66{
+  margin-left: 86%;
+  margin-top: -1%;
+}
+.ss{
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#yyi{
+  margin-left: 39%;
+  margin-top: -1%;
+}
+#ffq{
+  margin-left: 68%;
+  margin-top: -3%;
+}
+#ddia{
+  margin-left: 87%;
+  margin-top: -1%;
+}
+.ooo{
+  margin-left: 30%;
+  margin-top: -2%;
+  font-weight: bold;
+}
+#iiio{
+  margin-left: 46%;
+
+}
+#vvvo{
+  margin-left: 60%;
+  margin-top: -4.1%;
+  font-weight: bold;
+}
+#uuuo{
+  margin-left: 65%;
+}
+#bbo{
+  margin-left: 78%;
+  margin-top: -4.1%;
+  font-weight: bolder;
+}
+#wwo{
+  margin-left: 88%;
+}
+#z104{
+  margin-left: 25%;
+}
+#z114{
+  margin-left: 10%;
+  
+}
+#z124{
+  margin-left: 15%;
+}
+#hothah{
+  margin-left: 28%;
+}
+#rrafh{
+  margin-left: 53%;
+  margin-top: -3%;
+
+}
+#tenah{
+  margin-left: 55%;
+  margin-top: -1%;
+}
+#onemu{
+  margin-left: 92%;
+  margin-top: -1%;
+}
+#bushas{
+  margin-left: 89%;
+  margin-top: -5%;
+}
+.bobaah{
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#umomo{
+  margin-left: 29%;
+}
+#STmo{
+  margin-left: 42%;
+  margin-top: -3%;
+}
+#aryia{
+  margin-left: 89%;
+  margin-top: -3%;
+}
+#araiw{
+  margin-left: 62%;
+  margin-top: -3%;
+}
+.demof{
+  font-weight: bolder;
+}
+#modef{
+  margin-left: 25%;
+  color: red;
+}
+#validf{
+  margin-left: 58%;
+  margin-top: -3%;
+}
+#lidyf{
+  margin-left: 79%;
+  margin-top: -3%;
+}
+#z133{
+  margin-left: 27%;
+}
+#z144{
+  margin-left: 9%;
+}
+#z155{
+  margin-left: 6%;
+}
+#fierml{
+  margin-left: 30%;
+}
+#perml{
+  margin-left: 62%;
+  margin-top: -4%;
+}
+#bobaml{
+  margin-left: 85%;
+  margin-top: -4%;
+}
+#midoo{
+  margin-left: 35%;
+}
+#termoo{
+  margin-left: 50%;
+  margin-top: -3%;
+}
+#oaoo{
+  margin-left: 66%;
+  margin-top: -2%;
+}
+#xxoo{
+  margin-left: 85%;
+  margin-top: -3%;
+}
+.tapii{
+  font-weight: bolder;
+  color: red;
+}
+#tapii{
+  margin-left: 30%;
+}
+#patii{
+  margin-left: 62%;
+  margin-top: -3%;
+}
+#tpaii{
+  margin-left: 87%;
+  margin-top: -3%;
+}
+#numberss{
+  text-align: center;
+  color: yellow;
+  font-weight: 500px;
+  
+}
+#fourbb{
+  border: solid;
+  border-radius: 12px;
+
+}
+#fivebb{
+  border: solid;
+  border-radius: 12px;
+
+}
+#sixbb{
+  border: solid;
+  border-radius: 12px;
+
+}
+#ninebb{
+  border: solid;
+  border-radius: 12px;
+
+}
+#threebb{
+  border: solid;
+  border-radius: 12px;
+
+}
+#llobb{
+  border: solid;
+  border-radius: 11px;
+
+}
+#SEEees{
+  margin-left: 40%;
+  margin-top: 3%;
+  padding: 10px 100px;
+  background-color: yellow;
+  color: black;
+  font-weight: bold;
+}
+.Footering{
+  margin-top: 70%;
+  display: flex;
+  justify-content: space-between;
+  background-color: navy;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.tashare{
+  display: flex;
+  font-weight: bolder;
+  background-color: navy;
+
+  
+}
+#hutre{
+  font-weight: bolder;
+  font-size: 23px;
+  
+}
+#cyre{
+  margin-left: 12%;
+}
+#cookyre{
+  margin-left: 10%;
+}
+#vorre{
+  margin-left: 10%;
+}
+/* @media (max-width: 576px)  {
+.Ammm{
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  margin: 10px;
+} */
+
+
+/* #Kim{
+  
+  text-align: center;
+  font-size: 39px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+.product{
+  margin-top: 12%;
+}
+.coconut{
+  margin-left: 8%;
+  margin-top: 1%;
+}
+#x1{
+  margin-left: 5%;
+  margin-top: 5%;
+  height: 400px;
+} */
+
+  
+
