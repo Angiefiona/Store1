@@ -544,13 +544,14 @@ margin-top: -3%;
 #vorre{
   margin-left: 10%;
 }
-/* @media (max-width: 576px)  {
+@media (max-width: 576px)  {
 .Ammm{
   display: flex;
   flex: 1;
   flex-direction: row;
   margin: 10px;
-} */
+}
+}
 
 
 /* #Kim{
